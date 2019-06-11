@@ -1,5 +1,5 @@
 {
-    "name": "w-vision/omnipay-datatrans",
+    "name": "kevinthalmann/w-vision-omnipay-datatrans",
     "type": "library",
     "description": "Datatrans Gateway for the Omnipay payment processing library",
     "keywords": [
