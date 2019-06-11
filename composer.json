@@ -18,6 +18,7 @@
             "email": "dominik@pfaffenbauer.at"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "Omnipay\\Datatrans\\" : "src/" }
     },
